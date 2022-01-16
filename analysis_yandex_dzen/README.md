@@ -5,3 +5,5 @@
   - Анализ взаимодействия пользователей с карточками Яндекс.Дзен и создание дащборда
 ## Используемые инструменты
 - Tableau
+## Ссылка на дашборд
+https://public.tableau.com/views/First_Dashboard_16382082750340/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
