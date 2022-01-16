@@ -1,9 +1,9 @@
-# Exploratory data analysis
-## Data
-Archive of ads for the sale of apartments in St. Petersburg and settlements for several years
-## Task
-Learn to determine the market value of real estate. Your task is to set the parameters. Build an automated system: it will track anomalies and fraudulent activity
-## Libraries used
+# Исслеовательский анализ данных
+## Данные
+архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет
+## Задача
+Нужно научиться определять рыночную стоимость объектов недвижимости. Ваша задача — установить параметры. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность
+## Используемые библиотеки
 - Pandas
 - Matplotlib
 
